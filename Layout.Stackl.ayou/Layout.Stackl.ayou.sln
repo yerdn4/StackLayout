@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layout.Stackl.ayou", "Layout.Stackl.ayou\Layout.Stackl.ayou.csproj", "{B00BC19D-0E2A-45C7-82F7-49EE2234B564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layouts.Grid", "Layouts.Grid\Layouts.Grid.csproj", "{FB5920CA-6795-4B59-B4DC-8740BF38AEE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B00BC19D-0E2A-45C7-82F7-49EE2234B564}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B00BC19D-0E2A-45C7-82F7-49EE2234B564}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B00BC19D-0E2A-45C7-82F7-49EE2234B564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5920CA-6795-4B59-B4DC-8740BF38AEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5920CA-6795-4B59-B4DC-8740BF38AEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5920CA-6795-4B59-B4DC-8740BF38AEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5920CA-6795-4B59-B4DC-8740BF38AEE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
