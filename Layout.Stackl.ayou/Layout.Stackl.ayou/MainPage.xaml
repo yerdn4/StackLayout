@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Layout.Stackl.ayou.MainPage">
+
+    <StackLayout Orientation="Horizontal"  BackgroundColor="Aquamarine" Margin="16,24,32,40" Spacing="12" Padding="12">
+        <Label
+    Text="HOLA BIENVENIDOS" 
+            VerticalOptions="Start" 
+            BackgroundColor="Green"/>
+    <Button
+        
+    Text="Click me" HorizontalOptions="Center" 
+        VerticalOptions="Center" 
+        BackgroundColor="Blue"/>
+        <Button
+    Text="when haces tus momos en programacion" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center" 
+            BackgroundColor="Violet"/>
+        <Button
+    Text="But te termninan reprobando" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center" 
+            BackgroundColor="Yellow"/>
+        <Button
+    Text="OHH minlente" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+            BackgroundColor="Pink"/>
+        <Button
+    Text="Texto" 
+            HorizontalOptions="Center"
+            VerticalOptions="Center" 
+            BackgroundColor="DarkBlue"/>
+    </StackLayout >
+</ContentPage>
